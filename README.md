@@ -2,9 +2,7 @@
 
 # K-Arm Bandit Recommendation System
 
-## Problem Statement
-
-To design a recommendation system using the K-Arm bandit framework.  
+## Problem Statement: To design a recommendation system using the K-Arm bandit framework.  
 This recommendation system has multiple items, and each time a user interacts with the system, an item should be recommended. Over time, the system should learn which are preferred and adjust its recommendations accordingly. The goal is to model a trade-off between exploring and exploiting.  
 
 For the K-Arm bandit problem where the system must balance exploration and exploitation, one solution is the epsilon-greedy method – an approach to handle the trade-off.  
